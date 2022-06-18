@@ -2,17 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://lephung8399.github.io/posts/my-first-post/</loc>
+    <loc>https://lephung8399.github.io/posts/my-second-post/</loc>
+    <lastmod>2022-06-19T04:30:54+07:00</lastmod>
+  </url><url>
+    <loc>https://lephung8399.github.io/posts/</loc>
+    <lastmod>2022-06-19T04:30:54+07:00</lastmod>
+  </url><url>
+    <loc>https://lephung8399.github.io/</loc>
+    <lastmod>2022-06-19T04:30:54+07:00</lastmod>
+  </url><url>
+    <loc>https://lephung8399.github.io/posts/my-first-post/</loc>
     <lastmod>2022-06-19T04:15:59+07:00</lastmod>
   </url><url>
-    <loc>http://lephung8399.github.io/</loc>
-    <lastmod>2022-06-19T04:15:59+07:00</lastmod>
+    <loc>https://lephung8399.github.io/categories/</loc>
   </url><url>
-    <loc>http://lephung8399.github.io/posts/</loc>
-    <lastmod>2022-06-19T04:15:59+07:00</lastmod>
-  </url><url>
-    <loc>http://lephung8399.github.io/categories/</loc>
-  </url><url>
-    <loc>http://lephung8399.github.io/tags/</loc>
+    <loc>https://lephung8399.github.io/tags/</loc>
   </url>
 </urlset>
