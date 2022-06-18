@@ -22,7 +22,7 @@
       <pubDate>Sun, 19 Jun 2022 04:15:59 +0700</pubDate>
       
       <guid>https://lephung8399.github.io/posts/my-first-post/</guid>
-      <description>Trong đó có cấu hình tên bài viết (title), ngày xuất bản (date), bản nháp hay đã sẵn sàng xuất bản (draft). Nội dung bài viết thì viết bằng cú pháp markdown, viết sau phần dấu gạch ngang &amp;mdash;. Bài viết nào có đánh dấu draft: true thì sẽ không được build.
+      <description>Trong đó có cấu hình tên bài viết (t1itle), ngày xuất bản (date), bản nháp hay đã sẵn sàng xuất bản (draft). Nội dung bài viết thì viết bằng cú pháp markdown, viết sau phần dấu gạch ngang &amp;mdash;. Bài viết nào có đánh dấu draft: true thì sẽ không được build.
 Chạy thử website trên local bằng lệnh hugo server, truy cập http://localhost:1313 để xem kết quả. Đường dẫn của trang sẽ tương ứng với đường dẫn file http://localhost:1313/posts/my-first-post.</description>
     </item>
     
